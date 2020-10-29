@@ -3,7 +3,7 @@ CTFd TrekTheme
 
 Star Trek [LCARS](https://en.wikipedia.org/wiki/LCARS) inspired pure CSS theme for
 [CTFd](https://github.com/CTFd/CTFd) (v2.1.1) used during the 2019 
-[LayerOne](https://www.layerone.org/) [CTF](https://twitter.com/layeronectf).
+[LayerOne](https://www.layerone.org/) [CTF](https://twitter.com/layeronectf) and [ToorCon](https://toorcon.net/) [CTF](https://twitter.com/toorconctf).
 
 ![Screenshot](screenshot1.png)
 ![Screenshot](screenshot2.png)
